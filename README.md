@@ -1,7 +1,9 @@
+---
+<h1 align="center">Hi , I'm Ammar "F1Z1L4L" KARABULUT</h1>
 
 <div align="center">
     <p align="center">
-        <img style="https://i.pinimg.com/originals/6f/e6/29/6fe62928471ace68987a69c3d6778e51.gif" />
+        <img style="margin-top:7px;" src="https://i.pinimg.com/originals/6f/e6/29/6fe62928471ace68987a69c3d6778e51.gif" />
     </p>
     <br />
 </div>

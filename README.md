@@ -8,7 +8,6 @@
     <br />
 </div>
 
----
 
 <h1 align="center" >Social Media</h1>
 <p align="center" >

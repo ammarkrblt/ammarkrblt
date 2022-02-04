@@ -3,7 +3,7 @@
 
 <div align="center">
     <p align="center">
-        <img style="margin-top:7px;" src="https://kuaza.com/wp-content/uploads/2015/09/nisanboard-15jifn5.gif" />
+        <img style="margin-top:7px;" src="https://c.tenor.com/KDubZTgVoKMAAAAM/ataturk-turkiye.gif" />
     </p>
     <br />
 </div>
